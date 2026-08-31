@@ -1,0 +1,12 @@
+C:\Users\minso\source\repos\DocFlow\src\DocFlow.Domain\bin\Debug\net9.0\DocFlow.Domain.deps.json
+C:\Users\minso\source\repos\DocFlow\src\DocFlow.Domain\bin\Debug\net9.0\DocFlow.Domain.dll
+C:\Users\minso\source\repos\DocFlow\src\DocFlow.Domain\bin\Debug\net9.0\DocFlow.Domain.pdb
+C:\Users\minso\source\repos\DocFlow\src\DocFlow.Domain\obj\Debug\net9.0\DocFlow.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minso\source\repos\DocFlow\src\DocFlow.Domain\obj\Debug\net9.0\DocFlow.Domain.AssemblyInfoInputs.cache
+C:\Users\minso\source\repos\DocFlow\src\DocFlow.Domain\obj\Debug\net9.0\DocFlow.Domain.AssemblyInfo.cs
+C:\Users\minso\source\repos\DocFlow\src\DocFlow.Domain\obj\Debug\net9.0\DocFlow.Domain.csproj.CoreCompileInputs.cache
+C:\Users\minso\source\repos\DocFlow\src\DocFlow.Domain\obj\Debug\net9.0\DocFlow.Domain.sourcelink.json
+C:\Users\minso\source\repos\DocFlow\src\DocFlow.Domain\obj\Debug\net9.0\DocFlow.Domain.dll
+C:\Users\minso\source\repos\DocFlow\src\DocFlow.Domain\obj\Debug\net9.0\refint\DocFlow.Domain.dll
+C:\Users\minso\source\repos\DocFlow\src\DocFlow.Domain\obj\Debug\net9.0\DocFlow.Domain.pdb
+C:\Users\minso\source\repos\DocFlow\src\DocFlow.Domain\obj\Debug\net9.0\ref\DocFlow.Domain.dll
