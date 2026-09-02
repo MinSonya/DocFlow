@@ -12,8 +12,9 @@ namespace DocFlow.Domain.Documents
         public string Title { get; private set; }
         public DocumentStatus Status { get; private set; }
         public DateTimeOffset CreatedAt { get; }
+        public DocumentNumber Number { get; }
 
-        public Document(DocumentId id, string title, DocumentStatus status, DateTimeOffset createdAt)
+        public Document(DocumentId id, string title, DocumentStatus status, DateTimeOffset createdAt, DocumentNumber number)
         {
             if (string.IsNullOrEmpty(title))
             {
@@ -23,6 +24,7 @@ namespace DocFlow.Domain.Documents
             Title = title.Trim();
             Status = status;
             CreatedAt = createdAt;
+            Number = number;
         }
     }
 }

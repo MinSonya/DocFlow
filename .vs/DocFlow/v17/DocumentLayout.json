@@ -7,6 +7,22 @@
       "RelativeMoniker": "D:0:0:{FBF9D4E4-1A45-4A69-8625-EBC3E0B08C84}|src\\DocFlow.Domain\\DocFlow.Domain.csproj|solutionrelative:src\\docflow.domain\\documents\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DABF6F16-0EA0-46D7-9937-5DD4C8F692EF}|tests\\DocFlow.Domain.Tests\\DocFlow.Domain.Tests.csproj|c:\\users\\minso\\source\\repos\\docflow\\tests\\docflow.domain.tests\\docflow.domain.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DABF6F16-0EA0-46D7-9937-5DD4C8F692EF}|tests\\DocFlow.Domain.Tests\\DocFlow.Domain.Tests.csproj|solutionrelative:tests\\docflow.domain.tests\\docflow.domain.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABF6F16-0EA0-46D7-9937-5DD4C8F692EF}|tests\\DocFlow.Domain.Tests\\DocFlow.Domain.Tests.csproj|c:\\users\\minso\\source\\repos\\docflow\\tests\\docflow.domain.tests\\documents\\documentnumbertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DABF6F16-0EA0-46D7-9937-5DD4C8F692EF}|tests\\DocFlow.Domain.Tests\\DocFlow.Domain.Tests.csproj|solutionrelative:tests\\docflow.domain.tests\\documents\\documentnumbertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF9D4E4-1A45-4A69-8625-EBC3E0B08C84}|src\\DocFlow.Domain\\DocFlow.Domain.csproj|c:\\users\\minso\\source\\repos\\docflow\\src\\docflow.domain\\documents\\documentnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF9D4E4-1A45-4A69-8625-EBC3E0B08C84}|src\\DocFlow.Domain\\DocFlow.Domain.csproj|solutionrelative:src\\docflow.domain\\documents\\documentnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF9D4E4-1A45-4A69-8625-EBC3E0B08C84}|src\\DocFlow.Domain\\DocFlow.Domain.csproj|c:\\users\\minso\\source\\repos\\docflow\\src\\docflow.domain\\users\\userid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF9D4E4-1A45-4A69-8625-EBC3E0B08C84}|src\\DocFlow.Domain\\DocFlow.Domain.csproj|solutionrelative:src\\docflow.domain\\users\\userid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FBF9D4E4-1A45-4A69-8625-EBC3E0B08C84}|src\\DocFlow.Domain\\DocFlow.Domain.csproj|c:\\users\\minso\\source\\repos\\docflow\\src\\docflow.domain\\documents\\documentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FBF9D4E4-1A45-4A69-8625-EBC3E0B08C84}|src\\DocFlow.Domain\\DocFlow.Domain.csproj|solutionrelative:src\\docflow.domain\\documents\\documentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,11 +38,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DocumentNumberTests.cs",
+              "DocumentMoniker": "C:\\Users\\minso\\source\\repos\\DocFlow\\tests\\DocFlow.Domain.Tests\\Documents\\DocumentNumberTests.cs",
+              "RelativeDocumentMoniker": "tests\\DocFlow.Domain.Tests\\Documents\\DocumentNumberTests.cs",
+              "ToolTip": "C:\\Users\\minso\\source\\repos\\DocFlow\\tests\\DocFlow.Domain.Tests\\Documents\\DocumentNumberTests.cs",
+              "RelativeToolTip": "tests\\DocFlow.Domain.Tests\\Documents\\DocumentNumberTests.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwC0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T06:25:44.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "DocFlow.Domain.Tests",
+              "DocumentMoniker": "C:\\Users\\minso\\source\\repos\\DocFlow\\tests\\DocFlow.Domain.Tests\\DocFlow.Domain.Tests.csproj",
+              "RelativeDocumentMoniker": "tests\\DocFlow.Domain.Tests\\DocFlow.Domain.Tests.csproj",
+              "ToolTip": "C:\\Users\\minso\\source\\repos\\DocFlow\\tests\\DocFlow.Domain.Tests\\DocFlow.Domain.Tests.csproj",
+              "RelativeToolTip": "tests\\DocFlow.Domain.Tests\\DocFlow.Domain.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-02T06:24:32.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserId.cs",
+              "DocumentMoniker": "C:\\Users\\minso\\source\\repos\\DocFlow\\src\\DocFlow.Domain\\Users\\UserId.cs",
+              "RelativeDocumentMoniker": "src\\DocFlow.Domain\\Users\\UserId.cs",
+              "ToolTip": "C:\\Users\\minso\\source\\repos\\DocFlow\\src\\DocFlow.Domain\\Users\\UserId.cs",
+              "RelativeToolTip": "src\\DocFlow.Domain\\Users\\UserId.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T06:21:48.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DocumentNumber.cs",
+              "DocumentMoniker": "C:\\Users\\minso\\source\\repos\\DocFlow\\src\\DocFlow.Domain\\Documents\\DocumentNumber.cs",
+              "RelativeDocumentMoniker": "src\\DocFlow.Domain\\Documents\\DocumentNumber.cs",
+              "ToolTip": "C:\\Users\\minso\\source\\repos\\DocFlow\\src\\DocFlow.Domain\\Documents\\DocumentNumber.cs",
+              "RelativeToolTip": "src\\DocFlow.Domain\\Documents\\DocumentNumber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T06:14:43.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "DocumentStatus.cs",
               "DocumentMoniker": "C:\\Users\\minso\\source\\repos\\DocFlow\\src\\DocFlow.Domain\\Documents\\DocumentStatus.cs",
               "RelativeDocumentMoniker": "src\\DocFlow.Domain\\Documents\\DocumentStatus.cs",
@@ -39,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "DocumentId.cs",
               "DocumentMoniker": "C:\\Users\\minso\\source\\repos\\DocFlow\\src\\DocFlow.Domain\\Documents\\DocumentId.cs",
               "RelativeDocumentMoniker": "src\\DocFlow.Domain\\Documents\\DocumentId.cs",
@@ -58,7 +126,7 @@
               "RelativeDocumentMoniker": "src\\DocFlow.Domain\\Documents\\Document.cs",
               "ToolTip": "C:\\Users\\minso\\source\\repos\\DocFlow\\src\\DocFlow.Domain\\Documents\\Document.cs",
               "RelativeToolTip": "src\\DocFlow.Domain\\Documents\\Document.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-31T06:36:02.766Z",
               "EditorCaption": ""

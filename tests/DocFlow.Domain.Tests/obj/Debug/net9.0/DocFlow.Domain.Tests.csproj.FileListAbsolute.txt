@@ -101,3 +101,4 @@ C:\Users\minso\source\repos\DocFlow\tests\DocFlow.Domain.Tests\obj\Debug\net9.0\
 C:\Users\minso\source\repos\DocFlow\tests\DocFlow.Domain.Tests\obj\Debug\net9.0\DocFlow.Domain.Tests.pdb
 C:\Users\minso\source\repos\DocFlow\tests\DocFlow.Domain.Tests\obj\Debug\net9.0\DocFlow.Domain.Tests.genruntimeconfig.cache
 C:\Users\minso\source\repos\DocFlow\tests\DocFlow.Domain.Tests\obj\Debug\net9.0\ref\DocFlow.Domain.Tests.dll
+C:\Users\minso\source\repos\DocFlow\tests\DocFlow.Domain.Tests\bin\Debug\net9.0\FluentAssertions.dll
